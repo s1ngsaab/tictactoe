@@ -1,1 +1,2 @@
 # tictactoe
+This C++ program is a console-based Tic-Tac-Toe game for two players, X and O. It allows players to take turns entering their moves by specifying the row and column to place their symbol. The program checks for a win condition or a tie after each move and displays the final result, indicating which player has won or if the game ended in a tie. It provides a simple text-based interface for playing the classic Tic-Tac-Toe game.
